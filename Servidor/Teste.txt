@@ -1,0 +1,1 @@
+Arquivo para testar prrojeto de redes, funciona com qualquer tipo de arquivos.
