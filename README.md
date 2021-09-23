@@ -2,7 +2,7 @@
 ## Alunos: Matheus Gêda e Jadson César<p>
 ### 1 PASSO:<p>
 RODAR O SERVIDOR:<p>
-Executamos no prompt de comando e colocamos o comando: python3 server.py<p>
+Executamos no prompt de comando(no windows) ou o terminal(no linux) e colocarmos o comando: python3 server.py<p>
 
 O servidor vai se comportar da seguinte forma:<p>
  - Aparecerá a mensagem 'Aguardando conexão de um cliente' na tela e o programa ficará aguardando até que algum cliente entre.<p>
@@ -14,7 +14,7 @@ Obs: Para rodar o servidor, o arquivo de qualquer formato que deve ser enviado p
 
 ### 2 PASSO:<p>
 RODAR O CLIENTE:<p>
-Executamos no prompt de comando e colocamos o comando: python3 cliente.py<p>
+Executamos no prompt de comando(no windows) ou o terminal(no linux) e colocarmos o comando: python3 cliente.py<p>
 
 O servidor vai se comportar da seguinte forma:<p>
  - Caso o servidor já esteja aberto e tudo ocorra como planejado, aparecerá na tela, a seguinte mensagem: 'Conectado com sucesso!'.<p>
